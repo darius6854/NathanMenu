@@ -16,9 +16,9 @@ public class NathanMenuWork {
             System.out.println("#############################");
             System.out.println("#########   Menu   ##########");
             System.out.println("#############################");
-            System.out.println("#### 1) Plus");
-            System.out.println("#### 2) Minus");
-            System.out.println("#### 3) Exit");
+            System.out.println("#### 1) Plus ###");
+            System.out.println("#### 2) Minus ###");
+            System.out.println("#### 3) Exit ###");
             System.out.print("Enter your menu : ");
             choice = scan.nextInt();
 
